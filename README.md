@@ -5,6 +5,6 @@ So, given some details of a new user like demographic details, web session recor
 
 Click on this link for a demo of the deployment: https://drive.google.com/drive/folders/137vV8pe_bwMCCZNzgpO2Kt1y0jG02zEw?usp=sharing
 
-Refer to my blog for more details:
+Refer to my blog for more details: https://medium.com/@shubhofficial24/airbnb-new-users-bookings-where-will-a-new-guest-book-their-first-travel-experience-ee7f296f3d4a
 
 

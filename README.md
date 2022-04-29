@@ -3,7 +3,7 @@ New users on Airbnb can book a place to stay in 34,000+ cities across 190+ count
 
 So, given some details of a new user like demographic details, web session records and summary statistics, who has just signed up in the Airbnb platform, we want to predict in which country the new user will book into. There are 12 possible outcomes of the destination country: 'US', 'FR', 'CA', 'GB', 'ES', 'IT', 'PT', 'NL','DE', 'AU', 'NDF' (no destination found), and 'other'. 
 
-Click on this link for a demo of the deployment: https://drive.google.com/drive/folders/137vV8pe_bwMCCZNzgpO2Kt1y0jG02zEw?usp=sharing
+Click on this link for a demo of the deployment: https://youtu.be/f5z9GqgKtA8
 
 Refer to my blog for more details: https://medium.com/@shubhofficial24/airbnb-new-users-bookings-where-will-a-new-guest-book-their-first-travel-experience-ee7f296f3d4a
 
